@@ -14,8 +14,8 @@ I'm a passionate developer focused on AI, embedded systems and full-stack develo
 
 ## 🏆 Achievements
 
-- 🥈 **2nd place at SCSS 2025** with project on prostate cancer detection using DNNs (85% AUROC)
 - 🥇 **1st place at Siemens x UNITBV Hackathon** with CuraBot: a robotic assistant for medication delivery
+- 🥈 **2nd place at SCSS 2025** with project on prostate cancer detection using DNNs (85% AUROC)
 - 💼 **Intern at Siemens** – Working on AI and embedded solutions for industry
 
 ---
