@@ -22,22 +22,21 @@ I'm a passionate developer focused on AI, embedded systems and full-stack develo
 
 ## 🚀 Projects I'm Proud Of
 
-### 🔬 Prostate Cancer Detection (SCSS 2025)
+### 🔬 Prostate Cancer Detection (SCSS 2nd Place 2025)
 > A deep learning model using attention UNet and PyTorch trained on MRI slices from PI-CAI. Achieved **85% AUROC** using only 725 patients. Focused on segmentation + lesion localization and data balancing.
 
 ### 🦾 CuraBot – Hackathon Winner
 > AI-powered robotic assistant for helping immobile patients. Recognizes medication boxes using YOLOv8 + OCR, voice command support, and controls a robotic arm to deliver medication.
 
 ### 🛡️ RoboTank – Autonomous Tank Robot
-> A Raspberry Pi-based robot with computer vision, PID control, object detection and autonomous driving logic. Focus on embedded integration and real-time control.
+> A ESP32 based robot with PID control, object detection and autonomous driving logic. Focus on embedded integration and real-time control.
 
 ---
 
 ## 🧪 Projects in Development
 
 - **LipNet + Sign Language Translator** – Building a real-time system for recognizing lip movement and hand gestures, with the goal of helping people with speech or hearing impairments.
-- **Transformer-based Chest Disease Detection** – Working on a deep learning pipeline using Vision Transformers for thoracic disease classification using the NIH ChestX-ray14 dataset.
-
+- **Neural Networks applied in Autonomous Electric Driving Public Transport** – Developing an Deep Learning Model, expanding my **Self driving car project**, to optimize battery lifespan and improve overall driving performance in electric buses in a virtual world. All traffic participants should be capable to detect, understand and make logic actions based on traffic signs, raod events etc.
 ---
 
 ## 📈 GitHub Stats
